@@ -6,7 +6,7 @@ Binary Object Detection for surgical instruments using YOLOv5 Deep Learning Algo
 
 Annotation Type - Bounding Boxes
 
-Class &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - Instrument
+Class &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - Instrument
 
 ## Methodology
 - YOLOv5m Object Detection Model
@@ -14,7 +14,7 @@ Class &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - Instrument
 - Google Colab, Roboflow
 
 ## Results
-### Training
+- ### Training
 P = 0.938
 
 R = 0.827
@@ -23,7 +23,7 @@ F1 = 0.879
 
 mAP = 0.923
 
-### Validating
+- ### Validating
 P = 0.965
 
 R = 0.921
