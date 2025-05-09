@@ -14,7 +14,7 @@ Class &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - Instrumen
 - Google Colab, Roboflow
 
 ## Results
-- ### Training
+- ### Validation of trained model
 P = 0.938
 
 R = 0.827
@@ -23,7 +23,7 @@ F1 = 0.879
 
 mAP = 0.923
 
-- ### Validating
+- ### Validation of another model from cross-validation
 P = 0.965
 
 R = 0.921
